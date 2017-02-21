@@ -1,0 +1,1 @@
+requires 'Graph::Easy'

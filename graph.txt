@@ -1,0 +1,5 @@
+[ Pending ] -> [ Accepted ]
+[ Pending ] -> [ Removed ]
+[ Pending ] -> [ Declined ]
+[ Accepted ] -> [ Cancelled ]
+[ Accepted ] -> [ Superseded ]
